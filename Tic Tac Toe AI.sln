@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tic Tac Toe AI", "Tic Tac Toe AI.pyproj", "{0D0828E1-700E-4E3F-ADB4-57E76C68310D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D0828E1-700E-4E3F-ADB4-57E76C68310D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0828E1-700E-4E3F-ADB4-57E76C68310D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7BCF8D-82E4-40BC-A71B-922A1F9FA2F4}
+	EndGlobalSection
+EndGlobal
